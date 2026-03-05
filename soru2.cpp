@@ -1,6 +1,4 @@
-//
-// Created by ML103 on 3/5/2026.
-//
+
 
 #include "lab3soru2.h"
 #include <iostream>
